@@ -1,5 +1,5 @@
 # ps-task
-this reposirtory was created to serve as my exam for paysera
+this reposirtory was created to serve as my employment requirement
 
 ## Available Scripts
 
